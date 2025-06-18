@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Sri-Durga-Priya/currency-converter.git/static/css/main.3392aae0.css",
-    "main.js": "/Sri-Durga-Priya/currency-converter.git/static/js/main.e3f5219c.js",
-    "static/js/453.f1a415ee.chunk.js": "/Sri-Durga-Priya/currency-converter.git/static/js/453.f1a415ee.chunk.js",
-    "static/media/logo.svg": "/Sri-Durga-Priya/currency-converter.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Sri-Durga-Priya/currency-converter.git/index.html",
-    "main.3392aae0.css.map": "/Sri-Durga-Priya/currency-converter.git/static/css/main.3392aae0.css.map",
-    "main.e3f5219c.js.map": "/Sri-Durga-Priya/currency-converter.git/static/js/main.e3f5219c.js.map",
-    "453.f1a415ee.chunk.js.map": "/Sri-Durga-Priya/currency-converter.git/static/js/453.f1a415ee.chunk.js.map"
+    "main.css": "/currency-converter/static/css/main.3392aae0.css",
+    "main.js": "/currency-converter/static/js/main.31e7e73b.js",
+    "static/js/453.f1a415ee.chunk.js": "/currency-converter/static/js/453.f1a415ee.chunk.js",
+    "static/media/logo.svg": "/currency-converter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/currency-converter/index.html",
+    "main.3392aae0.css.map": "/currency-converter/static/css/main.3392aae0.css.map",
+    "main.31e7e73b.js.map": "/currency-converter/static/js/main.31e7e73b.js.map",
+    "453.f1a415ee.chunk.js.map": "/currency-converter/static/js/453.f1a415ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3392aae0.css",
-    "static/js/main.e3f5219c.js"
+    "static/js/main.31e7e73b.js"
   ]
 }
